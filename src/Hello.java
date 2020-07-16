@@ -5,5 +5,10 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("main method");
 	}
+	
+	public void m1() {
+		
+		//logic goes here
+	}
 
 }
