@@ -10,10 +10,5 @@ public class Hello {
 		
 		//logic goes here
 	}
-	
-	public void m2() {
-		
-		//some logic here
-	}
 
 }
